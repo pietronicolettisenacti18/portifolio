@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
+
+.imagem {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+h2 {
+    position: absolute;
+    height: 50%;
+    left: 47%;
+    top: 30%;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+h1 {
+    position: absolute;
+    height: 15px;
+    left: 500px;
+    top: 230px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 80px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+}
+
+p {
+    position: absolute;
+    width: 289px;
+    height: 29px;
+    left: 610px;
+    top: 330px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+header {
+    position: absolute;
+
+    left: 610px;
+    top: 440px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+h4 {
+    position: absolute;
+    width: 400px;
+    left: -60px;
+    top: 15px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+#site1 {
+    position: absolute;
+    width: 329px;
+    height: 280px;
+    left: 47px;
+    top: 596px;
+    background: url('img/bolo.png');
+}
+
+#site2 {
+    position: absolute;
+    width: 329px;
+    height: 280px;
+    left: 509px;
+    top: 596px;
+    background: url(img/primerio\ site\ top.png);
+}
+
+#site3 {
+    position: absolute;
+    width: 329px;
+    height: 280px;
+    left: 971px;
+    top: 596px;
+
+    background: url('img/app\ de\ adocao.png');
+}
